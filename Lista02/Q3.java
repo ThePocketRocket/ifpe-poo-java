@@ -3,7 +3,7 @@ package Lista02;
 import java.util.Scanner;
 public class Q3 {
 	public static void main(String[] args) {
-		double notas[][] = new double[10][4];
+		double[][] notas = new double[10][4];
 		int cMedia = 0;
 		
 		Scanner input = new Scanner(System.in);

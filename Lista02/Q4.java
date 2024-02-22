@@ -3,7 +3,7 @@ package Lista02;
 import java.util.Scanner;
 public class Q4 {
 	public static void main(String[] args) {
-		double numeros[] = new double[10];
+		double[] numeros = new double[10];
 		
 		Scanner input = new Scanner(System.in);
 		for (int i = 0; i < 10; i++) {

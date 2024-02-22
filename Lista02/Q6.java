@@ -2,7 +2,7 @@ package Lista02;
 
 public class Q6 {
 	public static void main(String[] args) {
-		double vetor1[] = {1,2,3,4,5}, vetor2[] = {1,2,3,4,5};
+		double[] vetor1 = {1,2,3,4,5}, vetor2 = {1,2,3,4,5};
 		int vetoresIguais = 0;
 		
 		if (vetor1.length == vetor2.length) {

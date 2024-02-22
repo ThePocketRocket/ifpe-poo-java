@@ -13,6 +13,7 @@ public class Q9 {
         frase = input.nextLine();
 
         System.out.printf("A frase %s, possui %d vogais.",frase, countVowels(frase));
+        input.close();
     }
 
     public static boolean isVowels(char letter) {

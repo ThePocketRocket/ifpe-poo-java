@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int numeroDeCadastros = 0, cNome = 0;
+        int numeroDeCadastros, cNome = 0;
         String nome;
 
         System.out.print("Digite a quantidade de nomes que deseja cadastrar: ");
