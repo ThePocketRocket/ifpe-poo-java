@@ -7,7 +7,7 @@ Se o usuário digitar:
 Obs.: Cada opção deve ser um método diferente.
 */
 
-package Lista03;
+package lista03;
 
 import java.util.Scanner;
 
