@@ -1,6 +1,6 @@
 //Questão 01: Escreva um programa com um método que receba um número e determine se esse número é par ou ímpar.
 
-package Lista03;
+package lista03;
 
 import java.util.Scanner;
 

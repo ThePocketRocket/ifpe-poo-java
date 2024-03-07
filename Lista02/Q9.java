@@ -1,6 +1,6 @@
 //Questão 09: Escreva um programa que leia uma palavra e mostre a quantidade de vogais da palavra.
 
-package Lista02;
+package lista02;
 
 import java.util.Scanner;
 

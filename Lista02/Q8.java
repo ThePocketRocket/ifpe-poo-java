@@ -1,6 +1,6 @@
 //Questão 08: Escreva um programa que conte o número de letras de uma frase informada pelo usuário.
 
-package Lista02;
+package lista02;
 import java.util.Scanner;
 
 public class Q8 {
