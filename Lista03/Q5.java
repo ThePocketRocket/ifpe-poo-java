@@ -5,7 +5,7 @@ perímetro de um retângulo (2b + 2h). Forneça as seguintes opções ao usuário:
 2. Calcular o perímetro do retângulo
 */
 
-package lista03;
+package Lista03;
 
 import java.util.Scanner;
 public class Q5 {

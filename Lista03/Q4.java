@@ -8,7 +8,7 @@ calcular o imposto:
 • Acima de R$ 5.000,01 – 30% de imposto
 */
 
-package lista03;
+package Lista03;
 
 import java.util.Scanner;
 

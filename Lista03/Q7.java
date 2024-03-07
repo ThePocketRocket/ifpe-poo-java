@@ -4,7 +4,7 @@ parâmetro e calcule a média dos valores contidos no vetor. Obs.: O tamanho do ve
 deve ser informado pelo usuário.
  */
 
-package lista03;
+package Lista03;
 
 import java.util.Arrays;
 import java.util.Scanner;

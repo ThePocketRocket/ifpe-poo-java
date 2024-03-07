@@ -6,7 +6,7 @@ seguintes opções ao usuário:
 2. Transformar de Kelvin para Celsius
  */
 
-package lista03;
+package Lista03;
 
 import java.util.Scanner;
 

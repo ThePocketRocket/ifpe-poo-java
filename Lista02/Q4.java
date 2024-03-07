@@ -1,4 +1,4 @@
-package lista02;
+package Lista02;
 
 import java.util.Scanner;
 public class Q4 {

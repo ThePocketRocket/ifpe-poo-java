@@ -6,7 +6,7 @@ métodos para:
 • O numero de pessoas com mais de 18 anos
  */
 
-package lista03;
+package Lista03;
 
 import java.util.Scanner;
 
